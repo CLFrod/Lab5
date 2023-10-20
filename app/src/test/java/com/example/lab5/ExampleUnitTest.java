@@ -1,4 +1,4 @@
-package mgarzon.createbest.productcatalog;
+package com.example.lab5;
 
 import org.junit.Test;
 
